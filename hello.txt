@@ -15,3 +15,6 @@ hello atguigu gello git
 hello atguigu gello git
 hello atguigu gello git
 hello atguigu gello git
+
+https://github.com/zgnmskk/git-demo.git
+git@github.com:zgnmskk/git-demo.git
